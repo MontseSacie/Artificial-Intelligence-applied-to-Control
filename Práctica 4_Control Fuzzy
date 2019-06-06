@@ -1,0 +1,2 @@
+En esta práctica diseñamos un controlador PID borroso y lo sintonizamos para controlar la planta 1 utilizada en la primera práctica.
+El esquema en simulink y .fis generado con los conjuntos fuzzy etc se encuentra en el .zip dentro de la carpeta "Esquemas Simulink"
